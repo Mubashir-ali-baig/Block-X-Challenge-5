@@ -1,1 +1,1 @@
-Craeted a savings account contract with unix timestamp constraint.
+Created a savings account contract with unix timestamp constraint.
